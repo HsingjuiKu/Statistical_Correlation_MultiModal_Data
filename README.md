@@ -1,5 +1,16 @@
 # Advancing Multimodal Data Fusion in Pain Recognition: A Strategy Leveraging Statistical Correlation and Human-Centered Perspectives
 
+**📄 Paper Reference:**
+
+> Gu, Xingrui, Wang, Zhixuan, Jin, Irisa, and Wu, Zekun. "Advancing Multimodal Data Fusion in Pain Recognition: A Strategy Leveraging Statistical Correlation and Human-Centered Perspectives." *arXiv preprint arXiv:2404.00320*, 2024.  
+> Accepted by AHRI 2024. [DOI: 10.48550/arXiv.2404.00320](https://doi.org/10.48550/arXiv.2404.00320)  
+
+This research presents a novel multimodal data fusion methodology for pain behavior recognition, integrating statistical correlation analysis with human-centered insights. Our approach introduces two key innovations:  
+1) Data-driven statistical relevance weights for modality fusion;  
+2) Human-centric movement characteristics in representation learning.  
+Our framework demonstrates superior accuracy across deep learning models and provides explainable analysis for healthcare applications.
+
+
 **This project focuses on detecting chronic pain-related protective behavior using the EmoPain Dataset through various fusion techniques and deep learning models.**
 
 This repository contains tutorials and code for Exploratory Data Analysis (EDA), Early (Feature-Level), Middle (Model-Level), Late (Decision-Level), and Hybrid (Middle & Late) Fusion Models, as well as cross-validation methods used in our project.
@@ -180,4 +191,17 @@ Link: [Best Model Weights](https://github.com/981526092/COMP0053_Group6/tree/mai
 [11] He, Haibo, Yang Bai, Edwardo A Garcia, and Shutao Li. 2008. ‘ADASYN: Adaptive synthetic sampling approach for imbalanced learning’. In 2008 IEEE international joint conference on neural networks (IEEE world congress on computational intelligence), 1322--1328. IEEE.
 
 ...
+
+
+## 📄 Citation
+
+If you find this project helpful in your research or build upon our work, please cite the following paper:
+
+```bibtex
+@article{gu2024advancing,
+  title={Advancing Multimodal Data Fusion in Pain Recognition: A Strategy Leveraging Statistical Correlation and Human-Centered Perspectives},
+  author={Gu, Xingrui and Wang, Zhixuan and Jin, Irisa and Wu, Zekun},
+  journal={arXiv preprint arXiv:2404.00320},
+  year={2024}
+}
 
